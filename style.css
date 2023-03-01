@@ -1,0 +1,243 @@
+.parent-one-child-one {
+    text-align: center;
+    padding: 100px;
+    text-decoration: none;
+    color: antiquewhite;
+
+}
+
+body {
+    font-family: 'Golos Text', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+.parent-one {
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.donate-button {
+    text-decoration: none;
+
+    background-image: linear-gradient(red, orange);
+    color: antiquewhite;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.parent-one-heading {
+    font-size: 50px;
+}
+
+.parent-two-heading {
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.parent-two-paragraph {
+    color: gray;
+    text-align: center;
+}
+
+.money {
+    background-color: #F3F3F3;
+    border-radius: 2px;
+    padding: 10px;
+    color: grey;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+
+
+
+}
+
+.money-200tk {
+    background-color: #FFE4E4;
+    border-radius: 2px;
+    padding: 10px;
+    color: red;
+    font-size: 20px;
+    font-weight: 1000;
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+    border: 2px solid red;
+}
+
+.money-box {
+    display: flex;
+    justify-content: center;
+
+}
+
+.amount {
+    border-bottom: 2px solid gray;
+    text-align: center;
+    color: gray;
+    width: 50%;
+
+
+}
+
+.amount-section {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.button-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.donate-plan {
+    margin-top: 100px;
+}
+
+.donate-plan h1 {
+    text-align: center;
+    font-size: 45px;
+
+}
+
+.donate-plan p {
+    text-align: center;
+}
+
+.parent-three {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+
+
+}
+
+#shelter {
+    width: 20%;
+    margin: 10px 15px;
+    background-color: #E0FAF5;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+#food {
+
+    width: 20%;
+    margin: 10px 15px;
+    border-radius: 5px;
+    background-color: #FCE6E6;
+    padding: 40px;
+
+}
+
+#education {
+    width: 20%;
+    margin: 10px 15px;
+    background-color: #FCE5B1;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.parent-four {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.content {
+    width: 35%;
+    margin: 10px 15px;
+
+
+}
+
+.image {
+    width: 50%;
+    margin: 10px 15px;
+}
+
+.image img {
+    max-width: 100%;
+}
+
+.content h1 {
+    font-size: 45px;
+}
+
+.parent-five h1 {
+    text-align: center;
+    font-size: 45px;
+
+}
+
+
+.parent-five p {
+    text-align: center;
+    color: gray;
+}
+
+.email {
+    text-align: center;
+}
+
+.input-style {
+    background-color: #F0E4E4;
+    border: none;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.input-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.subscribe-button {
+    text-decoration: none;
+    color: #E0FAF5;
+
+}
+
+.subscribe {
+    text-align: center;
+    background-color: #EA5151;
+    padding: 4px 5px;
+
+
+
+}
+
+.input-box {
+    background-color: #FFF4CE;
+    margin: 100px 300px;
+    padding: 100px;
+}
+
+footer h1 {
+    font-size: 30px;
+    font-style: italic;
+    color: red;
+    text-align: center;
+}
+
+footer p {
+    color: darkgray;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    padding: 30px;
+    margin: 0px;
+}
